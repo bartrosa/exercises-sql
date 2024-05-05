@@ -1,0 +1,16 @@
+PaymentID,OrderID,Amount,PaymentDate,Method,Status
+1,1,39.98,2023-05-01 10:05:00,Credit,Completed
+2,2,49.99,2023-05-02 15:35:00,Debit,Completed
+3,3,20.97,2023-05-03 09:20:00,PayPal,Completed
+4,4,12.99,2023-05-03 17:50:00,Credit,Completed
+5,5,19.99,2023-05-04 11:05:00,Credit,Completed
+6,6,29.98,2023-05-05 10:10:00,Credit,Completed
+7,7,89.99,2023-05-05 11:35:00,Credit,Completed
+8,8,19.99,2023-05-06 12:05:00,PayPal,Completed
+9,9,49.98,2023-05-06 13:35:00,Credit,Completed
+10,10,47.97,2023-05-07 09:05:00,Credit,Completed
+11,11,199.99,2023-05-07 10:20:00,Credit,Completed
+12,12,29.99,2023-05-07 11:25:00,Debit,Completed
+13,13,69.98,2023-05-08 14:05:00,PayPal,Completed
+14,14,39.98,2023-05-08 15:05:00,Credit,Completed
+15,15,25.99,2023-05-09 16:05:00,Debit,Completed
